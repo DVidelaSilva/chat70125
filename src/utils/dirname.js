@@ -1,5 +1,5 @@
-import { fileURLToPath } from 'node:os'
-import { dirname } from 'node:path'
+import { fileURLToPath } from 'os'
+import { dirname } from 'path'
 
 
 const __filename = fileURLToPath(import.meta.url)
